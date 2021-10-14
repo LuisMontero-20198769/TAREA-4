@@ -1,0 +1,13 @@
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\bin\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.exe
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\bin\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.deps.json
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\bin\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.runtimeconfig.json
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\bin\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.runtimeconfig.dev.json
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\bin\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.dll
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\bin\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.pdb
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\obj\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.csproj.AssemblyReference.cache
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\obj\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.AssemblyInfoInputs.cache
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\obj\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.AssemblyInfo.cs
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\obj\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.csproj.CoreCompileInputs.cache
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\obj\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.dll
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\obj\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.pdb
+C:\Users\Edward Montero\source\repos\Tarea4-Supermercado_Montero\Tarea4-Supermercado_Montero\obj\Release\netcoreapp3.1\Tarea4-Supermercado_Montero.genruntimeconfig.cache
